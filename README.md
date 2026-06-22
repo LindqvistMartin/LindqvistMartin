@@ -5,5 +5,3 @@ Building self-hosted alternatives to SaaS-only ops tooling. The three are built 
 - **[pulsewatch](https://github.com/LindqvistMartin/pulsewatch)** — reliability dashboard: probes, SLOs, error budgets, public status pages ([live demo](https://pulsewatch-ui.onrender.com))
 - **[sluice](https://github.com/LindqvistMartin/sluice)** — webhook fan-out daemon in front of the incident tools (Go, early)
 - **[flare](https://github.com/LindqvistMartin/flare)** — incident management: append-only timeline, auto-drafted postmortems, MTTR/MTTA ([live demo](https://flare-ui.onrender.com))
-
-In .NET OSS, I had a LinkedHashSet→OrderedHashSet sweep merged into Apache Lucene.NET ([#1313](https://github.com/apache/lucenenet/pull/1313)).
